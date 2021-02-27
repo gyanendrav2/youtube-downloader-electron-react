@@ -142,25 +142,3 @@ plugins: [
   })
 ],
 ```
-
-## Contact and Support
-
-I want your feedback! Here's a list of different ways to me and request help:
-* Report bugs and submit feature requests to [GitHub issues](https://github.com/alexdevero/electron-react-webpack-boilerplate/issues).
-<!-- * For private communications email me at foo@mail.com. -->
-* And do not forget to follow [@alexdevero](https://twitter.com/alexdevero) on Twitter!
-
-If you feel generous and want to show some extra appreciation:
-
-[![Buy me a coffee][buymeacoffee-shield]][buymeacoffee]
-
-[buymeacoffee]: https://www.buymeacoffee.com/alexdevero
-[buymeacoffee-shield]: https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png
-
-### Code of Conduct
-
-[Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
-
-### License
-
-MIT © [Alex Devero](https://alexdevero.com).
